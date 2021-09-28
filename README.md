@@ -6,4 +6,5 @@ It's interfaces are similar to QBluetooth.
 
 NOTE: MsgBox is custom class similar to QMessageBox.
 Can be compiled under MinGW. For that add this to your .pro file:
+
 LIBS += -lws2_32 -lwsock32 lbthprops
