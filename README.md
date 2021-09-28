@@ -1,0 +1,1 @@
+# qt-winsock-classic-bluetooth
